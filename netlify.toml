@@ -7,5 +7,5 @@
 
 [[redirects]]
   from = "/(.*)"
-  to = "https://cdn.live.vidgo.com/$1"
+  to = "/api/proxy"
   status = 200
